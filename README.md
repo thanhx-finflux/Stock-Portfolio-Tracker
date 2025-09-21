@@ -1,9 +1,8 @@
 # Stock-Portfolio-Tracker
-A simple python-based tool to track a stock portfolio using real-time from Yahoo Finance. Built with Jupyter Notebook for visualization, analysis, and valuation metrics.
-
+A simple Python-based tool to track a stock portfolio using real-time data from Yahoo Finance. Built with Jupyter Notebook for visualization, analysis, and valuation metrics.
 ### Features
 - Fetch historical and current stock prices for a custom portfolio.
-- Calcutate total value, unrealized gains/losses, and percentage changes.
+- Calculate total value, unrealized gains/losses, and percentage changes.
 - Generate charts: Portfolio distribution (bar/pie), stock prices over time.
 
 <img width="1198" height="675" alt="Image" src="https://github.com/user-attachments/assets/4270edc4-7d37-490d-a060-8b2f1baf6ba4" />
@@ -18,7 +17,7 @@ A simple python-based tool to track a stock portfolio using real-time from Yahoo
 
 <img width="1178" height="545" alt="Image" src="https://github.com/user-attachments/assets/abd938d0-db62-4bf7-9915-a4b1b2965bff" />
 
-- Valuation metrics: P/E, P/B ratio, dicidend yeild (value-weighted averages).
+- Valuation metrics: P/E, P/B ratio, dividend yield (value-weighted averages).
 - Example portfolio: 'AAPL', 'MSFT', 'GOOGL', 'AMZN', 'TSLA', 'JNJ', 'V', 'NVDA'
 
 Example output:
